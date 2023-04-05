@@ -10,3 +10,10 @@ Installation
 5. Enter open5gs/, delete the src/ server/ directory, and use the src/ server/ in the V202304-plugin compressed package
 6. Execute sudo npm clean-install, sudo npm run build
 7. Create a soft link under  /usr/lib/node_module/ open5gs -> /home/2023-03-11/open5gs-2.6.1/open5gs/
+
+
+Demo
+
+http://107.150.121.63:3000/
+user:admin
+passwd:1423
