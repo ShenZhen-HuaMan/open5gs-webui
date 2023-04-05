@@ -17,3 +17,6 @@ Demo
 -http://107.150.121.63:3000/
 --user:admin
 --passwd:1423
+
+
+For more information, please contact in our personal blog: "https://wowonder.com.cn/admin"
