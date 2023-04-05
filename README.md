@@ -14,6 +14,6 @@ Installation
 
 Demo
 
-http://107.150.121.63:3000/
-user:admin
-passwd:1423
+-http://107.150.121.63:3000/
+--user:admin
+--passwd:1423
